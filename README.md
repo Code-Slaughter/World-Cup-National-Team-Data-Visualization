@@ -10,8 +10,7 @@ It is also possible to compare the teams that are about to play against each oth
 - We will provided you with files about the process from the very beginning idea to the final project.
   - [Milestone 1](M1.md) illustrates our design strategy of our visualization, related information collected and approaches of data pre-processing in the initial stages.
   - [Milestone 2](M2.pdf) marks a clear understanding of the overall visualization, including our description of the specific functions that will be implemented, the 
-technology might be using, as well as some extra ideas about the visualization.
-  - Please download the pdf file to visit hyper-links.
+technology might be using, as well as some extra ideas about the visualization. Please download the pdf file to visit the inside hyper-links.
 
 ### Final project
 - Website : [2022 FIFA Data Visualisation](https://com-480-data-visualization.github.io/datavis-project-2022-y3/index.html).
